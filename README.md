@@ -1,7 +1,7 @@
 # blockchain-resources
 Guide to understanding, developing, and building solutions with blockchain
 
-Theres more to blockchain than cryptocurrency.
+There's more to blockchain than cryptocurrency.
 
 ## Understanding how blockchain works
 - Article - [What is Blockchain Technology? A Step-by-Step Guide For Beginners](https://blockgeeks.com/guides/what-is-blockchain-technology/)
@@ -21,13 +21,14 @@ Theres more to blockchain than cryptocurrency.
 - Video - [Demo: Create an Ethereum Smart Contract](https://www.youtube.com/watch?v=lQ4USRtzWko) (Java)
 - Video - [Creating a blockchain with Javascript](https://www.youtube.com/watch?v=zVqczFZr124&list=PLzvRQMJ9HDiTqZmbtFisdXFxul5k0F-Q4) (Javascript)
 - Video - [Building a Blockchain in Under 15 Minutes - Programmer explains](https://www.youtube.com/watch?v=baJYhYsHkLM) (Java)
+- Video - [Let's create custom BlockChain in Java | Create Block Chain Technology in Java](https://www.youtube.com/watch?v=UmCEdcRjaz0) (Java)
 
 
 ## Books
 - [The Truth Machine: The Blockchain and the Future of Everything](https://www.amazon.com/Truth-Machine-Blockchain-Future-Everything/dp/1250114578/) by Paul Vigna, Michael J. Casey
 - [The Business Blockchain: Promise, Practice, and Application of the Next Internet Technology](https://www.amazon.com/Business-Blockchain-Practice-Application-Technology/dp/1119300312/ref=pd_sim_14_4?_encoding=UTF8&pd_rd_i=1119300312&pd_rd_r=3ECWSWTR38ZYSARSYYXN&pd_rd_w=MP7z3&pd_rd_wg=d5MOS&psc=1&refRID=3ECWSWTR38ZYSARSYYXN) by William Mougayar, Vitalik Buterin
 
-## Blockchain in the wild (applications to blockchain)
+## Blockchain in the wild (social applications to blockchain)
 - [State of the Dapps - The curated list of decentralized apps](https://www.stateofthedapps.com/)
 - Article - [Blockchain in Action for Social Good](https://hackernoon.com/blockchain-in-action-for-social-good-a7040837a23d)
 - Article - [How Can Blockchain Technology Innovate Your Education](https://hackernoon.com/how-can-blockchain-technology-innovate-your-education-d1cd80c26f08)
@@ -35,7 +36,6 @@ Theres more to blockchain than cryptocurrency.
 - Org - [Agriledger](http://www.agriledger.com/) seeks to alleviate global crop economy inefficiencies by creating a blockchain-based network of farmers and suppliers, where co-ops and small producers have immediate access to accurate information about market costs and can create transparent, immutable transaction agreements to ward off corruption.
 - Org - [Bail Bloc](https://bailbloc.thenewinquiry.com/) is software that lets you utilize unused processing power to mine for cryptocurrency, specifically Monero, which is then donated to the Bronx Freedom Fund. That donation is used to post bail for individuals who are incapable of coming up with the money to post their own bond, according to a white paper outlining how The New Inquiry intends to use the funds.
 Read more at: https://thenextweb.com/cryptocurrency/2017/11/15/help-blockchainify-people-out-of-jail-by-mining-cryptocurrency-for-bail/
-- Video - [Let's create custom BlockChain in Java | Create Block Chain Technology in Java](https://www.youtube.com/watch?v=UmCEdcRjaz0)
 - Report - [Blockchain for Social Impact](https://www.gsb.stanford.edu/faculty-research/publications/blockchain-social-impact) Stanford Business report by By Doug J. Galen, Nikki Brand, Lyndsey Boucherle, Rose Davis, Natalie Do, Ben El-Baz, Isadora Kimura, Kate Wharton, Jay Lee
 
 ## Miscellaneous resources
