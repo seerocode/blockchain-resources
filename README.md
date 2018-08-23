@@ -4,6 +4,7 @@ Guide to understanding, developing, and building solutions with blockchain
 There's more to blockchain than cryptocurrency.
 
 ## Understanding how blockchain works
+- Visual Guide - [Blockchain Explained](https://www.upfolio.com/ultimate-blockchain-guide) 
 - Article - [What is Blockchain Technology? A Step-by-Step Guide For Beginners](https://blockgeeks.com/guides/what-is-blockchain-technology/)
 - Article - [Smart Contracts, Explained](https://cointelegraph.com/explained/smart-contracts-explained)
 - Video - [How does a blockchain work - Simply Explained](https://www.youtube.com/watch?v=SSo_EIwHSd4)
